@@ -35,5 +35,5 @@ Case counts are more plentiful, as they rely on traditional epidemiological repo
 
 Here, we look at case counts in Africa based on data from [the Reuters COVID-19 dashboard](https://graphics.reuters.com/world-coronavirus-tracker-and-maps/regions/africa/).
 
-![Case counts and deaths in Africa as of September 27, 2021](https://raw.githubusercontent.com/huddlej/nextstrain-narratives/main/figures/reuters-case-counts-deaths-africa-2021-09-27.png)
+<img src="https://raw.githubusercontent.com/huddlej/nextstrain-narratives/main/figures/reuters-case-counts-deaths-africa-2021-09-27.png" alt="Case counts and deaths in Africa as of September 27, 2021" style="width: 100%" />
 ```
